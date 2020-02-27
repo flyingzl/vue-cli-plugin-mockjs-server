@@ -20,8 +20,8 @@ pluginOptions: {
 
 ## MOCK FILE
 
-- create json file in `mock` folder 
-- create js file in `mock` folder
+- create `json` file in `mock` folder 
+- create `js` file in `mock` folder
 
 ```json
 /**
