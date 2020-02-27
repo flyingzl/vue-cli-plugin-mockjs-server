@@ -41,7 +41,7 @@ pluginOptions: {
 
 ```js
 /**
- * 用户登入 @url /user/login
+ * User Login @url /user/login
  */
 module.exports = () => {
     return {
