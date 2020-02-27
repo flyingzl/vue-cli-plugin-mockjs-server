@@ -10,7 +10,7 @@ Modify `vue.config.js`:
 
 ```javascript
 pluginOptions: {
-    mock: {
+    mockjs: {
         path: path.join(__dirname, './mock'),
         debug: true,
         port: 3000
