@@ -12,7 +12,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:wanchun/vue-cli-plugin-mock.git"
+    "url": "https://github.com/flyingzl/vue-cli-plugin-mockjs-server.git"
   },
   "dependencies": {
     "express": "^4.17.1",
