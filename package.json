@@ -1,0 +1,22 @@
+{
+  "name": "vue-cli-plugin-mockjs-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "flyingzl",
+  "keywords": [
+    "vue-cli",
+    "mockjs",
+    "plugin"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wanchun/vue-cli-plugin-mock.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mockjs": "^1.1.0",
+    "watch": "^1.0.2"
+  }
+}
