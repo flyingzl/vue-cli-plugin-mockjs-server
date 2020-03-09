@@ -6,6 +6,7 @@ let { mock } = require(ROUTE_PATH)
 
 
 module.exports = (_, options) => {
+    if (process.env.NODE_ENV !== 'development') return
     const { path, debug = true, port = 3000 } = options.pluginOptions.mockjs
     if (!path) {
         throw new Error('mock path should be configured!!')
