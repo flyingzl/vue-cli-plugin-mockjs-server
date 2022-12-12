@@ -15,7 +15,7 @@
     "url": "https://github.com/flyingzl/vue-cli-plugin-mockjs-server.git"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mockjs": "^1.1.0",
     "watch": "^1.0.2"
   }
